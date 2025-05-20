@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['hellclient_322',['HellClient',['../class_hell_client.html',1,'']]]
+  ['datarate_5ft_0',['DataRate_t',['../union_data_rate__t.html',1,'']]]
 ];
